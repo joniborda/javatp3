@@ -1,0 +1,2 @@
+00222222	Juan                          	Perez                         	M	 22/1/2014	12/10/2016	55	07,50	Ing. en Sistemas    	A
+02222223	Juana                         	Perez                         	F	 22/1/2014	12/10/2016	55	07,50	Ing. en Sistemas    	A
